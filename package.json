@@ -3,13 +3,26 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/gsap": "^1.20.1",
     "@types/jest": "24.0.6",
+    "@types/lodash.debounce": "^4.0.5",
     "@types/node": "11.9.4",
     "@types/react": "16.8.4",
     "@types/react-dom": "16.8.2",
+    "@types/react-scroll": "^1.5.4",
+    "gsap": "^2.1.1",
+    "lodash.debounce": "^4.0.8",
+    "node-sass": "^4.11.0",
+    "normalize.css": "^8.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
+    "react-icons": "^3.4.0",
     "react-scripts": "2.1.5",
+    "react-scroll": "^1.7.11",
+    "typeface-montserrat": "^0.0.54",
+    "typeface-open-sans": "^0.0.54",
+    "typeface-raleway": "^0.0.54",
+    "typeface-roboto": "^0.0.54",
     "typescript": "3.3.3333"
   },
   "scripts": {
@@ -21,6 +34,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage": "https://www.abhinavramkumar.com/projects/adsells",
   "browserslist": [
     ">0.2%",
     "not dead",
